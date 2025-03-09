@@ -1,0 +1,10 @@
+$brand-color:         rgb(255, 255, 242);
+$highlight:           lighten($brand-color, 35%);
+$text-color:          #0b0404;
+$muted-text-color:    #64644B;
+$font-family:         system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif;
+$heading-font-family:   "Bona Nova SC", "Times New Roman", serif;
+$on-bigphone:         375px;
+$on-tablet:           768px;
+$on-laptop:           960px;
+$on-desktop:          1200px;
