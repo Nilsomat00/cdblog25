@@ -17,7 +17,7 @@ title: CRITICAL DESIGN DIARY
 description: >- # this means to ignore newlines until "baseurl:"
   Here you can find our thoughts about different topics regarding the Critical Design course in SS25 held by Katta Spiel and Evropi Stefanid at TU Wien.
 baseurl: "/cdblog25" # the subpath of your site, e.g. /blog
-url: "https://nilsomat00.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nilsomat00.github.io/cdblog25" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 github_username: Nilsomat00
 
