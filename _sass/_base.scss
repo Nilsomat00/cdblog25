@@ -95,10 +95,7 @@ p > cite {
 }
 
 hr {
-  border: 0;
-  height: 0;
-  @include divider;
-  margin: 4em 0;
+  margin-bottom: 48px;
 }
 
 img {
@@ -129,9 +126,9 @@ figcaption {
 } */
 
 .home {
-  max-width: 24em;
+  max-width: $max-width;
   margin: auto;
-  padding: 4em 1em;
+  padding: 4em $padding-sides;
 }
 
 .content-title {
@@ -152,8 +149,8 @@ figcaption {
 }
 
 .site-credits {
-  margin: 0 auto 2em;
-  padding: 0 2em;
+  margin: 0;
+  padding: 48px $padding-sides;
   text-align: center;
 }
 

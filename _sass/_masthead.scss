@@ -1,5 +1,6 @@
 .site-masthead {
-  max-width: 80ch;
+  max-width: $max-width;
+  padding: 0 $padding-sides;
   margin: 0 auto 0 auto;
   box-sizing: border-box;
   position: relative;
@@ -9,7 +10,6 @@
 .site-masthead h1 {
   margin-bottom: 0;
   margin-top: 1em;
-  padding: 0 2rem;
 }
 
 .site-masthead h2 {
