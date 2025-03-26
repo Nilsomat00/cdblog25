@@ -11,13 +11,11 @@ author: Kilian Feiertag, Miguel Ott, Nils Rönnberg
 {% include image.html url="/cdblog25/assets/images/1403_03_NR.jpeg" %}
 {% include image.html url="/cdblog25/assets/images/1403_04_NR.jpeg" %}
 
-
 ## Miguel
 {% include image.html url="/cdblog25/assets/images/1MO.jpeg" %}
 {% include image.html url="/cdblog25/assets/images/2MO.jpeg" %}
 {% include image.html url="/cdblog25/assets/images/3MO.jpeg" %}
 {% include image.html url="/cdblog25/assets/images/4MO.jpeg" %}
-
 
 ## Kilian
 {% include image.html url="/cdblog25/assets/images/kf1.jpg" %}
