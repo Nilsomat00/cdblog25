@@ -2,7 +2,7 @@
 layout: post
 title: "Photos Wednesday, March 19th"
 categories: literature
-author: Kilian Feiertag, Miguel Ott, Nils Rönnberg
+author: Kilian F, Miguel Ott, Nils Rönnberg
 ---
 
 ## Nils
