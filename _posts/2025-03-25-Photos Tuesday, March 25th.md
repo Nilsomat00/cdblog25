@@ -18,7 +18,7 @@ author: Kilian Feiertag, Miguel Ott, Nils Rönnberg
 {% include image.html url="/cdblog25/assets/images/32MO.jpeg" %}
 
 ## Kilian
-{% include image.html url="/cdblog25/assets/images/kf29.jpg" %}
-{% include image.html url="/cdblog25/assets/images/kf30.jpg" %}
-{% include image.html url="/cdblog25/assets/images/kf31.jpg" %}
-{% include image.html url="/cdblog25/assets/images/kf32.jpg" %}
+{% include image.html url="/cdblog25/assets/images/kf29.jpeg" %}
+{% include image.html url="/cdblog25/assets/images/kf30.jpeg" %}
+{% include image.html url="/cdblog25/assets/images/kf31.jpeg" %}
+{% include image.html url="/cdblog25/assets/images/kf32.jpeg" %}
