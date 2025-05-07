@@ -24,6 +24,10 @@
   text-justify: inter-word;
 }
 
+.post p:has(:first-child:is(audio)) {
+  text-indent: 0;
+}
+
 .post p:first-of-type,
 .post h2 + p {
   text-indent: 0;

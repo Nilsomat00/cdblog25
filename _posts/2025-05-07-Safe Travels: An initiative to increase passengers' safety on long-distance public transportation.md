@@ -20,3 +20,9 @@ He sees that the train arrives at his destination in 3 minutes, barely enough ti
 {% include image.html url="/cdblog25/assets/images/Critical-Concept-2.jpeg" description="Close-up illustration of the PTP's headrest part. Binaural sounds are emitted from the loudspeakers, stimulating the brain and causing the passenger to enter Deep Sleep Mode (DSM)." %}
 {% include image.html url="/cdblog25/assets/images/Critical-Concept-3.jpeg" description="Illustration of the two-step boarding system: The iris scanner next to the sliding door next allows or denies entry to the passengers, allowing only those passengers who are attempting to enter their assigned platform section. A secondary gate opening only after the train has arrived provides an additional layer of security and avoids accidental falls onto the rails." %}
 {% include image.html url="/cdblog25/assets/images/Critical-Concept-4.jpeg" description="In case an inividual with harmful intentions tries to enter a passenger's Designated Personal Space (DPS), the Omnidirectional Active Denial System (OADS) is activated to discourage the intruder. Targeted high-frequency microwaves heat up the water cells in the intruder's skin, causing a sharp pain and activating the flight reflex." %}
+<hr>
+See below for an audio demonstration of the sounds used to stimulate the brain into Deep Sleep Mode (DSM). For safety reasons, the psychoactive frequencies were removed from the sample audio. The audio files were created by our associate Lead Sound Designer, Florian Pusch.
+
+<br>
+
+/cdblog25/assets/audio/KomischerSound.mp3
