@@ -2,7 +2,7 @@
 layout: post
 title: "Prototypes created during the lecture"
 categories: literature
-author: Kilian Feiertag, Miguel Ott, Nils Rönnberg
+author: Kilian F, Miguel Ott, Nils Rönnberg
 ---
 
 ## Miguel & Nils

@@ -2,7 +2,7 @@
 layout: post
 title: "Black Mirror Episode Concepts"
 categories: literature
-author: Kilian Feiertag, Miguel Ott, Nils Rönnberg
+author: Kilian F, Miguel Ott, Nils Rönnberg
 ---
 
 ## Nils
